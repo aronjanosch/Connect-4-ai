@@ -1,0 +1,24 @@
+# created by virtualenv automatically
+python36/*
+**/__pycache__/
+
+**/venv/
+.idea/
+.vscode/
+
+.python-version
+
+**/.DS_Store
+
+alphazero_pipeline/datasets/
+alphazero_pipeline/model/
+alphazero_pipeline/evaluator_data/
+alphazero_pipeline/backups/
+
+agents/agent_alphazero/alpha_zero_args.py
+
+model/
+
+code
+/alphazero_pipeline/model.zip
+/datasets/
